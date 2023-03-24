@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hackaton</title>
+    <style>
+      * {
+        color: black;
+      }
+      .welcome {
+        font-weight: bold;
+        font-style: italic;
+        border: 1px solid green;
+        text-transform: capitalize;
+        text-align: center;
+        box-shadow: 10;
+        /* background-color: darkgray; */
+        margin: 10% 33%;
+        font-family: "Courier New", Courier, monospace;
+        color: blue;
+        padding: 2%;
+        width: 30%;
+        box-shadow: 0 0 5px black;
+        border-radius: 10%;
+
+        /* height: 10; */
+      }
+      h2 {
+        color: green;
+        margin: 200;
+        /* background-color: silver;     */
+      }
+      label,
+      input,
+      td {
+        margin: 2%;
+        padding: 2%;
+        width: 40%;
+      }
+      ul {
+        margin: 0px;
+        list-style-type: none;
+      }
+      .sub {
+        background-color: yellow;
+      }
+      #eml,#pss{
+        font-size: 16px;
+        font-family:cursive;
+      }.inp{
+        text-align:end
+
+      }
+    </style>
+  </head>
+  <body>
+    <div class="welcome">
+      <ul type="none">
+        <li><a href="">Home</a></li>
+        <li>Login</li>
+      </ul>
+      <h2>Welcome to my Front-End Taining</h2>
+      <p>Please Login to your account</p><div class="inp">
+      <label for="eml">Email:</label>
+      <input type="email" name="usermail" id="eml" /><br /></div><div class="inp">
+      <label for="pss">password</label>
+      <input type="password" name="password" id="pss" /><br /></div>
+      <input type="submit" value="Submit" class="sub"/>
+    </div>
+  </body>
+</html>
