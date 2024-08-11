@@ -21,18 +21,18 @@
   </tr>
 
   <tr>
-    <td><img src="visual/information #2.png" width=480 height=271></td>
-    <td><img src="visual/information #3.png" width=480 height=271></td>
+    <td><img src="visual/information2.png" width=480 height=271></td>
+    <td><img src="visual/information3.png" width=480 height=271></td>
   </tr>
   
 
   <tr>
-    <td><img src="visual/information #4.png" width=480 height=271></td>
+    <td><img src="visual/information4.png" width=480 height=271></td>
   </tr>
   
   <tr>
     <td><img src="visual/health centers.png" width=480 height=271></td>
-    <td><img src="visual/health center #2.png" width=480 height=271></td>
+    <td><img src="visual/health center2.png" width=480 height=271></td>
   </tr>
   
   <tr>
