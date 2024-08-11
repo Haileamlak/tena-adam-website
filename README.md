@@ -10,6 +10,34 @@
 
 - **Health Events**: Stay updated with upcoming health-related events such as seminars, workshops, and wellness programs. 
 
-## Technologies Used: HTML, CSS, JavaScript
+## Technologies Used: *HTML*, *CSS*, *JavaScript*
 
-## Screenshots
+<table>
+  <tr>
+  </tr>
+  <tr>
+    <td><img src="visual/home page.png" width=480 height=271></td>
+    <td><img src="visual/information.png" width=480 height=271></td>
+  </tr>
+
+  <tr>
+    <td><img src="visual/information #2.png" width=480 height=271></td>
+    <td><img src="visual/information #3.png" width=480 height=271></td>
+  </tr>
+  
+
+  <tr>
+    <td><img src="visual/information #4.png" width=480 height=271></td>
+  </tr>
+  
+  <tr>
+    <td><img src="visual/health centers.png" width=480 height=271></td>
+    <td><img src="visual/health center #2.png" width=480 height=271></td>
+  </tr>
+  
+  <tr>
+    <td><img src="visual/events.png" width=480 height=271></td>
+  </tr>
+        
+ </table>
+ 
