@@ -1,4 +1,4 @@
-# TenaAdam
+# TenaAdam <img src="visual/logo.png">
 
 **TenaAdam** is a comprehensive health information platform developed during a hackathon. It offers users valuable resources on various health-related topics, including diseases, foods, medicines, nutrition, and more. The platform also features tools for locating nearby health centers and provides detailed information about them. Additionally, TenaAdam keeps users informed about upcoming health-related events.
 
